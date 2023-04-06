@@ -1,2 +1,5 @@
 # GitHubPages110
-GitHub Personal repo for CSE 110 UCSD
+
+Arjun Kumar's User Page
+
+GitHub Personal Repo for CSE 110 UCSD
