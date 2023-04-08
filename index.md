@@ -70,11 +70,11 @@ Here are my tips for getting a tattoo:
 I still get small hits of dopamine when I look at tattoos I got a year and a half ago. 
 This is my To-do list of the next few tattoos I'm getting:
 
-- [ ] Sword and Rose along Right Forearm
-- [ ] SD Logo inner left forearm
-- [ ] Lighter with floral design outer left forearm
-- [ ] Glass half full 
-- [ ] 13 on right wrist
+- [ ]  Sword and Rose along Right Forearm
+- [ ]  SD Logo inner left forearm
+- [ ]  Lighter with floral design outer left forearm
+- [ ]  Glass half full 
+- [ ]  13 on right wrist
 
 I'll check them off once I've got them, and add the next batch later. 
 
