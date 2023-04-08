@@ -30,7 +30,8 @@ I am confident in my programming skills, but the area I really excell is in find
 >I'm a big sports guy, always have been. 
 
 ![GolfPic1](HP-3.jpg) 
-[Another Golf Pic](./HP-4.jpg)
+
+Here's another picture of me playing Golf: [Another Golf Pic](./HP-4.jpg)       <sub>(Relative Link)</sub>
 
 I've played sports since I can remember. Everything from football to volleyball to soccer. I mainly played basketball and golf competitively through high school. I am quite competitive and it comes through in my work as well. Playing sports has really made me who I am more than anything else. I love watching sports too, even if Polo is on the TV I'll sit down and watch for a little. It doesn't matter. 
 
